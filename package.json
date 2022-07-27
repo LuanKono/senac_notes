@@ -1,0 +1,23 @@
+{
+  "name": "senac_notes",
+  "version": "1.0.0",
+  "description": "Senac nodejs training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanKono/senac_notes.git"
+  },
+  "author": "Luan C S Kono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuanKono/senac_notes/issues"
+  },
+  "homepage": "https://github.com/LuanKono/senac_notes#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodejs": "^0.0.0"
+  }
+}
